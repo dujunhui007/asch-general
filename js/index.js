@@ -8,3 +8,5 @@ var bb=666;
 var cc=555;
 var dd=6686;
 var ee=6686;
+var zz=777;
+var bbb=555;
